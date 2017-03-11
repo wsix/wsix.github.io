@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "技术"
-    url: /technologies/
+    url: /tech/
   - title: "工具"
-    url: /tools/
+    url: /tool/
+  - title: "时间线"
+    url: /timeline/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
