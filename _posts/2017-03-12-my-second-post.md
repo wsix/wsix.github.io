@@ -1,7 +1,7 @@
 ---
-title: "My first post"
+title: "My Second post"
 categories:
-  - technology
+  - tool
 tags:
   - content
   - css

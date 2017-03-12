@@ -1,14 +1,14 @@
 ---
 layout: archive
-permalink: /technology/
-title: "饭碗"
+permalink: /essay/
+title: "精神食粮"
 author_profile: true
 ---
 
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
-  {% if category == "technology" %}
+  {% if category == "essay" %}
     {% assign posts = group_items[forloop.index0] %}
     {% for post in posts %}
       {% include archive-single.html %}
